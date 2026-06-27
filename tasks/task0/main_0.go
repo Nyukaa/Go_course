@@ -26,10 +26,10 @@
 //     fmt.Println(3.14)
 //     fmt.Println(2 + 2)
 // }
-// package main
+package main
 
-// import "fmt"
+import "fmt"
 
-// func main() {
-//     fmt.Println(2 + 2)
-// }
+func main() {
+    fmt.Println(2 + 2)
+}
